@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcorejenkins", "dotnetcorejenkins.csproj", "{4A907ED1-A5A7-4E24-B085-F93DC547AC51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcorejenkins", "dotnetcorejenkins\dotnetcorejenkins.csproj", "{57E79B8C-274F-46A4-8D05-2E71A1A5384F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4A907ED1-A5A7-4E24-B085-F93DC547AC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4A907ED1-A5A7-4E24-B085-F93DC547AC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4A907ED1-A5A7-4E24-B085-F93DC547AC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4A907ED1-A5A7-4E24-B085-F93DC547AC51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E79B8C-274F-46A4-8D05-2E71A1A5384F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E79B8C-274F-46A4-8D05-2E71A1A5384F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E79B8C-274F-46A4-8D05-2E71A1A5384F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E79B8C-274F-46A4-8D05-2E71A1A5384F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {070D7953-6AC4-4505-A682-03EA6DE4ED2C}
+		SolutionGuid = {BD1F4ACF-87F7-4DEC-B498-AE0A962EAF90}
 	EndGlobalSection
 EndGlobal
